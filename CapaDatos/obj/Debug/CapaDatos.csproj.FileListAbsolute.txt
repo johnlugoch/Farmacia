@@ -1,0 +1,9 @@
+C:\Users\hpr221la\documents\visual studio 2015\Projects\Farmacia\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\hpr221la\documents\visual studio 2015\Projects\Farmacia\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\hpr221la\documents\visual studio 2015\Projects\Farmacia\CapaDatos\bin\Debug\Entidades.dll
+C:\Users\hpr221la\documents\visual studio 2015\Projects\Farmacia\CapaDatos\bin\Debug\MySql.Data.dll
+C:\Users\hpr221la\documents\visual studio 2015\Projects\Farmacia\CapaDatos\bin\Debug\Entidades.pdb
+C:\Users\hpr221la\documents\visual studio 2015\Projects\Farmacia\CapaDatos\bin\Debug\MySql.Data.xml
+C:\Users\hpr221la\documents\visual studio 2015\Projects\Farmacia\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\hpr221la\documents\visual studio 2015\Projects\Farmacia\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\hpr221la\documents\visual studio 2015\Projects\Farmacia\CapaDatos\obj\Debug\CapaDatos.pdb

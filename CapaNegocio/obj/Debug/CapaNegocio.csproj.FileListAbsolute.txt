@@ -1,0 +1,11 @@
+C:\Users\hpr221la\documents\visual studio 2015\Projects\Farmacia\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\hpr221la\documents\visual studio 2015\Projects\Farmacia\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\hpr221la\documents\visual studio 2015\Projects\Farmacia\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\hpr221la\documents\visual studio 2015\Projects\Farmacia\CapaNegocio\bin\Debug\Entidades.dll
+C:\Users\hpr221la\documents\visual studio 2015\Projects\Farmacia\CapaNegocio\bin\Debug\MySql.Data.dll
+C:\Users\hpr221la\documents\visual studio 2015\Projects\Farmacia\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\hpr221la\documents\visual studio 2015\Projects\Farmacia\CapaNegocio\bin\Debug\Entidades.pdb
+C:\Users\hpr221la\documents\visual studio 2015\Projects\Farmacia\CapaNegocio\bin\Debug\MySql.Data.xml
+C:\Users\hpr221la\documents\visual studio 2015\Projects\Farmacia\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\hpr221la\documents\visual studio 2015\Projects\Farmacia\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\hpr221la\documents\visual studio 2015\Projects\Farmacia\CapaNegocio\obj\Debug\CapaNegocio.pdb

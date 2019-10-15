@@ -1,0 +1,5 @@
+C:\Users\hpr221la\documents\visual studio 2015\Projects\Farmacia\Entidades\bin\Debug\Entidades.dll
+C:\Users\hpr221la\documents\visual studio 2015\Projects\Farmacia\Entidades\bin\Debug\Entidades.pdb
+C:\Users\hpr221la\documents\visual studio 2015\Projects\Farmacia\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\hpr221la\documents\visual studio 2015\Projects\Farmacia\Entidades\obj\Debug\Entidades.dll
+C:\Users\hpr221la\documents\visual studio 2015\Projects\Farmacia\Entidades\obj\Debug\Entidades.pdb
